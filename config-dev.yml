@@ -1,4 +1,3 @@
 
 config:
-  info: "config-dev.yml"
-  version: 1.0
+  info: "config-dev.yml version: 1.0"
